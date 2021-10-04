@@ -12,20 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "default", "contrast", "aqua", "dirt", "dark", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "default", "neon", "aqua", "dirt", "dark", "mint", "plum", "sunrise"
+                                      # Theme color 설정
 
 # Site Settings
-locale                   : "en-US"
-title                    : "J Bot Blog"
+locale                   : "ko-KR" #"en-US"
+title                    : "J-Bot Blog"
 title_separator          : "&#124;"
-subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
-name                     : "noname"
+subtitle                 : "Version 1.0" # site title 아래에 나오는 sub title
+name                     : "noname" # 맨하단 이름
 description              : "An amazing website."
-url                      : "https://robo0801.github.io"
+url                      : "https://robo0801.github.io" # github blog 호스트 주소
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "robo0801/robo0801.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo_image.jpg"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "나의 블로그"# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
