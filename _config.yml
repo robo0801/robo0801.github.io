@@ -25,8 +25,10 @@ description              : "An amazing website."
 url                      : "https://robo0801.github.io" # github blog 호스트 주소
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "robo0801/robo0801.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+                            # 홈페이지 기본 티져 이미지
 logo                     : "/assets/images/logo_image.jpg"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+                                                          # 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : "나의 블로그"# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "NoNaMe"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : # 프로필 이미지 # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 
+  bio              : "I am an **amazing** person. <br> Major: EEE⚡"
+  location         : "Republic of Korea"
+  email            : "coolrobo0801@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "coolrobo0801@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/robo0801"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -284,7 +286,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false    # post에 읽기 시간 나타난다
+      comments: # true    # 댓글
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
