@@ -19,11 +19,12 @@ Git markdown tip
 
 ## 참조 링크 삽입
 ```
-주소 삽입 시 문법: \[주소 설명]\[참조번호]
+주소 삽입 시 문법: \[주소 설명] \[참조번호]
 참조 번호 작성 문법: \[참조 번호]: 주소
 ```
 \[Google]\[1]
 
 \[1]: https://www.google.com/
+  
   
 출처: [opentutorials.org](https://opentutorials.org/module/782/6083)
