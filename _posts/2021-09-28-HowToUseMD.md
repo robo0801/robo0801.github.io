@@ -3,7 +3,7 @@ layout: single
 title: 유용한 markdown 문법
 
 categoires:
-  - GithubBlog
+  - Github Blog
 
 ---
 
