@@ -1,8 +1,8 @@
 ---
-title: [Markdown] Markdown Tip!
+title: "[Markdown] Markdown Tip!"
 
 toc: true
-toc_label: " Table of Contents"
+toc_label: "Table of Contents"
 
 categories:
   - GithubBlog
