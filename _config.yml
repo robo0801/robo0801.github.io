@@ -103,7 +103,7 @@ author:
   avatar           : # 프로필 이미지 # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 
   bio              : "I am an **amazing** person. <br> Major: EEE⚡"
   location         : "Republic of Korea"
-  email            : "coolrobo0801@gmail.com"
+  # email            : "coolrobo0801@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
