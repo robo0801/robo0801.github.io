@@ -283,7 +283,7 @@ defaults:
       author_profile: true
       read_time: false    # post에 읽기 시간 나타난다
       comments: # true    # 댓글
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
