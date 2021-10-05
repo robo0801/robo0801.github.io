@@ -2,7 +2,7 @@
 layout: single
 title: Markdown Tip!
 
-categoires:
+categories:
   - GithubBlog
 
 ---
