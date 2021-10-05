@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://robo0801.github.io/
   - title: "Categories"
-    url: https://robo0801.github.io/
+    url: /categories/
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
