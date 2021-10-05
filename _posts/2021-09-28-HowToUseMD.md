@@ -2,6 +2,9 @@
 layout: single
 title: Markdown Tip!
 
+toc: true
+toc_label: "Table of Contents"
+
 categories:
   - GithubBlog
 
