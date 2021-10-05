@@ -24,7 +24,7 @@ Git markdown tip
 ```
 \[Google]\[1]
 
-\[1]: https://www.google.com/
+\[1]: https://www.google.com/  
   
   
 출처: [opentutorials.org](https://opentutorials.org/module/782/6083)
