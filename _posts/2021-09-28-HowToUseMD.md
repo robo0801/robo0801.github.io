@@ -27,4 +27,4 @@ Git markdown tip
 \[1]: https://www.google.com/
 
 
-[링크 추가](https://opentutorials.org/module/782/6083)
+출처: [opentutorials.org](https://opentutorials.org/module/782/6083)
