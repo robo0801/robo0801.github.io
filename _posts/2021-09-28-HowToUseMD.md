@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: Markdown Tip!
 
 toc: true
