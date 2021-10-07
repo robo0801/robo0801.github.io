@@ -29,8 +29,8 @@ categories:
 
 
 
-# Github Blog fontsize 변경
-Blog font size가 너무 커서 가독성이...  
+# Github Blog 폰트 크기 변경
+Blog 글씨 크기가 너무 커서 가독성이...  
 변경 방법!  
 
 
