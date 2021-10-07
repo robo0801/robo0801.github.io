@@ -13,7 +13,8 @@ categories:
 
 ---
 
-# Github blog 만들기!
+
+# Github Blog 만들기
 
 ### Blog 생성 및 설정
 [테디노트Youtube](https://www.youtube.com/watch?v=ACzFIAOsfpM&t=395s)
@@ -27,10 +28,11 @@ categories:
 ### config.yml 수정
 [7271kim github blog](https://github.com/7271kim/7271kim.github.com/blob/master/_config.yml)
 
-
-
+ 
+ 
 # Github Blog 폰트 크기 변경
-Blog 글씨 크기가 너무 커서 가독성이...  
+
+Blog 글씨 크기가 너무 커서 가독성이 떨어진다.
 변경 방법!  
 
 
@@ -57,6 +59,7 @@ html {
   -ms-text-size-adjust: 100%;
 }
 ```
+
 ## 참고
 [Minimal Mistakes start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 ## 다음 할 일
