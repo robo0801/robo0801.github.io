@@ -28,7 +28,13 @@ categories:
 ### config.yml 수정
 [7271kim github blog](https://github.com/7271kim/7271kim.github.com/blob/master/_config.yml)
 
- 
+
+# Github Blog 폰트 크기 설정
+글씨 크기로 가독성이 너무 떨어져 폰트 사이즈 줄이는 방법을 알아보겠다.  
+  
+## 1. /reset.scss/ 수정하기
+  
+수정하는 법  
  
 ## 참고
 [Minimal Mistakes start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
