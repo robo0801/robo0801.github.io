@@ -16,6 +16,8 @@ categories:
 
 # Github Blog 만들기
 
+## Theme 결정 후 만들기!
+
 ### Blog 생성 및 설정
 [테디노트Youtube](https://www.youtube.com/watch?v=ACzFIAOsfpM&t=395s)
 
@@ -29,10 +31,10 @@ categories:
 [7271kim github blog](https://github.com/7271kim/7271kim.github.com/blob/master/_config.yml)
 
 
-# Github Blog 폰트 크기 설정
+## Github Blog 폰트 크기 설정
 글씨 크기로 가독성이 너무 떨어져 폰트 사이즈 줄이는 방법을 알아보겠다.  
   
-## 1. /reset.scss/ 수정하기
+### 1. /reset.scss/ 수정하기
   
 수정하는 법  
  
