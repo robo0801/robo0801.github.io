@@ -14,9 +14,7 @@ categories:
 ---
 
 
-# Github Blog 만들기
-
-## Theme 결정 후 만들기!
+## Github Blog 만들기
 
 ### Blog 생성 및 설정
 [테디노트Youtube](https://www.youtube.com/watch?v=ACzFIAOsfpM&t=395s)
