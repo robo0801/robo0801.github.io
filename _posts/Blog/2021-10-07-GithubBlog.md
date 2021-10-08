@@ -35,7 +35,30 @@ categories:
 ### 1. /reset.scss/ 수정하기
   
 수정하는 법  
- 
+
+/_sass/minimal-mistakes/_reset.scss 에서 html 부분을 수정한다.  
+
+```css  
+html {
+  /* apply a natural box layout model to all elements */
+  box-sizing: border-box;
+  background-color: $background-color;
+  font-size: 14px;
+  @include breakpoint($medium) {
+    font-size: 14px;
+  }
+  @include breakpoint($large) {
+    font-size: 16px;
+  }
+  @include breakpoint($x-large) {
+    font-size: 18px;
+  }
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+```
+
+
 ## 참고
 [Minimal Mistakes start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 ## 다음 할 일
