@@ -17,6 +17,11 @@ Control System: consists of subsystems and processes(or plants) assembled for th
 ## Closed-loop Control
 ![Closed-loop Control](/assets/images/Control_System_img/1-2-closed-loop.jpg)
 
+# Analysis and design
+Specification
+1. transient response
+2. steady state error
+3. stability
 
 
 Posting 수정 내용   
