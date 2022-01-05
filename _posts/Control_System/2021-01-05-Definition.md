@@ -1,13 +1,10 @@
 ---
-title: "[Control System] 01 제어공학 Introduction"
-
+title: '[Control System] 01 제어공학 Introduction'
 toc: true
-toc_label: "Table of Contents"
-
-
+toc_label: Table of Contents
 categories:
   - Control_System
-
+published: true
 ---
 
 # Definition
@@ -15,10 +12,10 @@ Control System: consists of subsystems and processes(or plants) assembled for th
 
 # System Configurations
 ## Open-loop Control
-picture1  
+![Open-loop Control](/assets/images/Control_System_img/1-1-open-loop.jpg)
 
 ## Closed-loop Control
-picture2  
+![Closed-loop Control](/assets/images/Control_System_img/1-2-closed-loop.jpg)
 
 
 
