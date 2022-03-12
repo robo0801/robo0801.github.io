@@ -62,10 +62,19 @@ Youtube - 응용수학자 - Matlab
 
 # Computer Science
 
+## Operating System
+Blog(tistory) - suhwanc - 공룡책과 함께 OS (운영체제론)
+[Blog link](https://suhwanc.tistory.com/174)
+
+
+교과서 - Operating Systems: Three Easy Pieces
+[link](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+
 ## Deep Learning
 Youtube - NeoWizard - Deep Learning - TensorFlow 2.0 
 TensorFlow 2.0을 다룬 강의
-[Lecture link]((https://youtube.com/playlist?list=PLS8gIc2q83OhM0RTktKDitgZGX5dHo7Vs)
+[Lecture link](https://youtube.com/playlist?list=PLS8gIc2q83OhM0RTktKDitgZGX5dHo7Vs)
 
 
 Youtube - Sung Kim - 모두를 위한 딥러닝 강좌
