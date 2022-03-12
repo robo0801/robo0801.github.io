@@ -1,5 +1,5 @@
 ---
-title: "[EE-Lecture] EE Lecture"
+title: "[Lecture] EE and CS Lecture"
 
 toc: true
 toc_label: "Table of Contents"
