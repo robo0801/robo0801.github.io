@@ -1,20 +1,19 @@
 {
   "main": {
-    "id": "db0271d868275148",
+    "id": "405bb5f5036445c2",
     "type": "split",
     "children": [
       {
-        "id": "e8f5a3080769ed40",
+        "id": "ab9fa4bc097e9bf8",
         "type": "tabs",
-        "dimension": 47.86535303776683,
         "children": [
           {
-            "id": "0ee2e979e9cd1d1d",
+            "id": "4eef2315f62527a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control_System/2022-01-05-01-Intro.md",
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,17 +22,16 @@
         ]
       },
       {
-        "id": "2be1ca827c46e896",
+        "id": "734fead314e9a5bd",
         "type": "tabs",
-        "dimension": 52.13464696223317,
         "children": [
           {
-            "id": "56176ec117dfa8c8",
+            "id": "eb5cfe71269294e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control_System/2022-01-05-01-Intro.md",
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md",
                 "mode": "preview",
                 "source": false
               }
@@ -45,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "639bd21aa1af6c7e",
+    "id": "a98941787a9e1536",
     "type": "split",
     "children": [
       {
-        "id": "c645ca19a6bc0a5a",
+        "id": "5e52ae559d8ecb63",
         "type": "tabs",
         "children": [
           {
-            "id": "7726796237a591fe",
+            "id": "8a90376ed880af57",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +61,7 @@
             }
           },
           {
-            "id": "4830cc3a276987e1",
+            "id": "a77af36a0753d3c3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +76,7 @@
             }
           },
           {
-            "id": "471f71143822825c",
+            "id": "c4836d2bfac7e405",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,23 +87,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.5
   },
   "right": {
-    "id": "06cb7f882bbe052b",
+    "id": "dddc905afc32e6af",
     "type": "split",
     "children": [
       {
-        "id": "3292ea0cfa8a63c2",
+        "id": "3fb9ef32d50dbfda",
         "type": "tabs",
         "children": [
           {
-            "id": "9332934b2ad012ad",
+            "id": "b39660580c03fb30",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control_System/2022-01-05-01-Intro.md",
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +115,19 @@
             }
           },
           {
-            "id": "2a48faa22d88f684",
+            "id": "a5d30ef36d968bf8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control_System/2022-01-05-01-Intro.md",
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e258b41311c3db6e",
+            "id": "8a320648241b5bcc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,17 +138,16 @@
             }
           },
           {
-            "id": "6aa29ee77faf43c5",
+            "id": "a00db01fdb5f4056",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control_System/2022-01-05-01-Intro.md"
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,16 +164,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56176ec117dfa8c8",
+  "active": "4eef2315f62527a6",
   "lastOpenFiles": [
-    "Control_System/2022-01-05-02-frequency-domain.md",
-    "Control_System/2022-01-05-01-Intro.md",
-    "Control_System/2022-01-05-00-Start.md",
-    "2021-09-28-first.md",
-    "assets/images/Control_System_img/2-1-target-modeling.jpg.md",
-    "assets/images/Control_System_img",
-    "assets/images",
-    "assets",
-    "etc/2022-03-12-EE-Lecture.md"
+    "_posts/Control_System/2022-01-05-01-Intro.md",
+    "_posts/Control_System/2022-01-05-02-frequency-domain.md",
+    "assets/images/Control_System_img/2-14-gear.jpg",
+    "assets/images/Control_System_img/2-13-rotational-eq.jpg",
+    "assets/images/Control_System_img/2-11-translational-eq.jpg",
+    "assets/images/Control_System_img/2-10-translational.jpg",
+    "assets/images/Control_System_img/2-12-rotational.jpg",
+    "assets/images/Control_System_img/2-9-active.jpg",
+    "assets/images/Control_System_img/2-8-equation.jpg",
+    "assets/images/Control_System_img/2-7-passive.jpg",
+    "assets/images/Control_System_img/2-6-transfer-function.jpg",
+    "assets/images/Control_System_img/2-5-laplace-transform-theorems.jpg",
+    "_posts/Blog/2021-09-28-HowToUseMD.md",
+    "_posts/Blog/2021-10-07-GithubBlog.md",
+    "_posts/Blog/2021-10-05-MarkdownTutorial.md",
+    "_posts/Control_System/2022-01-05-00-Start.md"
   ]
 }
