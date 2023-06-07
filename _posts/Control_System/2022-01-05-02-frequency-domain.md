@@ -68,6 +68,14 @@ Gear
 ![Gear](/assets/images/Control_System_img/2-14-gear.jpg)
 
 
+## Electromechanical System
+예시: DC Motor
+![2-15-dc-motor.jpg](/assets/images/Control_System_img/2-15-dc-motor.jpg)
+
+
+
+
 Posting 수정 내용   
 220105 포스팅 시작  
+230606 포스팅 추가 (마지막까지)
 {: .notice--success}
