@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38f14ce8f2b9f423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/Control_System/2023-06-08-05-time-response.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "734fead314e9a5bd",
@@ -56,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Control_System/2023-06-06-03-time-domain.md",
+                "file": "_posts/Control_System/2023-06-08-05-time-response.md",
                 "mode": "preview",
                 "source": false
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
+                "file": "_posts/Control_System/2023-06-08-05-time-response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
+                "file": "_posts/Control_System/2023-06-08-05-time-response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md"
+                "file": "_posts/Control_System/2023-06-08-05-time-response.md"
               }
             }
           }
@@ -189,22 +201,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6cde1d8b691ed7f",
+  "active": "38f14ce8f2b9f423",
   "lastOpenFiles": [
-    "_posts/Control_System/2023-06-06-03-time-domain.md",
+    "assets/images/Control_System_img/5-12-time-domain-sol.jpg",
+    "assets/images/Control_System_img/5-11-high-order-system.jpg",
+    "assets/images/Control_System_img/5-10-transient-response.jpg",
+    "assets/images/Control_System_img/5-9-underdamped-2nd-order-system.jpg",
+    "assets/images/Control_System_img/5-8-general-2nd-order-system.jpg",
+    "assets/images/Control_System_img/5-7-pure-imaginary-roots.jpg",
+    "assets/images/Control_System_img/5-6-complex-conjugate-roots.jpg",
+    "assets/images/Control_System_img/5-5-repeated-real-roots.jpg",
+    "assets/images/Control_System_img/5-4-two-distinct-real-roots.jpg",
+    "assets/images/Control_System_img/5-3-second-order-system.jpg",
+    "assets/images/Control_System_img/5-2-first-order-system.jpg",
     "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
-    "assets/images/Control_System_img/3-8-masons-rule.jpg",
-    "assets/images/Control_System_img/3-7-signal-common-topology.jpg",
-    "assets/images/Control_System_img/3-6-signal-flow-graph.jpg",
-    "assets/images/Control_System_img/3-5-block-diagram-algebra.jpg",
-    "assets/images/Control_System_img/3-4-common-topology.jpg",
-    "assets/images/Control_System_img/3-3-block-diagram.jpg",
-    "assets/images/Control_System_img/3-2-system.jpg",
+    "_posts/Control_System/2023-06-08-05-time-response.md",
+    "_posts/Control_System/2023-06-06-03-time-domain.md",
     "_posts/Control_System/2022-01-05-02-frequency-domain.md",
-    "assets/images/Control_System_img/3-1-target.jpg",
-    "assets/images/Control_System_img/2-15-dc-motor.jpg",
     "_posts/Control_System/2022-01-05-01-Intro.md",
-    "assets/images/Control_System_img/2-14-gear.jpg",
     "_posts/Blog/2021-09-28-HowToUseMD.md",
     "_posts/Blog/2021-10-07-GithubBlog.md",
     "_posts/Blog/2021-10-05-MarkdownTutorial.md",
