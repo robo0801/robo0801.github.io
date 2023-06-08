@@ -22,17 +22,17 @@ Modeling은 Laplace Transform을 사용하여 Frequency Domain과 Time Domain으
 
 
 ## Laplace Transfrom
-$$ Time(t): \mathcal{f}(t) \leftrightarrow Freq(s): \mathcal{F} (s)$$
-Laplace Transfrom
+$$ Time(t): \mathcal{f}(t) \leftrightarrow Freq(s): \mathcal{F} (s) $$
+Laplace Transfrom  
 ![Laplace Transfrom](/assets/images/Control_System_img/2-2-laplace-transform.jpg)
-Inverse Laplace Transfrom
+Inverse Laplace Transfrom   
 ![Inverse Laplace Transfrom](/assets/images/Control_System_img/2-3-inverse-laplace-transform.jpg)
-Laplace Transform Table
+Laplace Transform Table  
 ![2-4-laplace-transform-table.jpg](/assets/images/Control_System_img/2-4-laplace-transform-table.jpg)
-Theorems
+Theorems  
 ![2-5-laplace-transform-theorems.jpg](/assets/images/Control_System_img/2-5-laplace-transform-theorems.jpg)
 
-제어공학에서 배우는 모든 target의 수학적 모델은 미분 방정식으로 표현된다. 미분 방정식은 Laplace Transform을 사용하여 간단하게 풀 수 있다.
+제어공학에서 배우는 모든 target의 수학적 모델은 미분 방정식으로 표현된다. 미분 방정식은 Laplace Transform을 사용하여 간단하게 풀 수 있다.  
 
 ## The transfer function
 ![The transfer function](/assets/images/Control_System_img/2-6-transfer-function.jpg)
@@ -55,21 +55,21 @@ Theorems
 ## Mechanical System Transfer Functions
 * 1. Translational
 ![Translational](2-10-translational.jpg)
-equation
+equation  
 ![Eq](/assets/images/Control_System_img/2-11-translational-eq.jpg)
 
 
-* 2. Rotational
+* 2. Rotational  
 ![Rotational](/assets/images/Control_System_img/2-12-rotational.jpg)
-equation
+equation  
 ![Eq](/assets/images/Control_System_img/2-13-rotational-eq.jpg)
 
-Gear
+Gear  
 ![Gear](/assets/images/Control_System_img/2-14-gear.jpg)
 
 
 ## Electromechanical System
-예시: DC Motor
+예시: DC Motor  
 ![2-15-dc-motor.jpg](/assets/images/Control_System_img/2-15-dc-motor.jpg)
 
 
