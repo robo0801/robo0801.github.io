@@ -18,61 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "41eca28ce53a594d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Control_System/2023-06-06-03-time-domain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6cde1d8b691ed7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38f14ce8f2b9f423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Control_System/2023-06-08-05-time-response.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "734fead314e9a5bd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb5cfe71269294e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Control_System/2023-06-08-05-time-response.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -124,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 341.5
   },
   "right": {
     "id": "dddc905afc32e6af",
@@ -140,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Control_System/2023-06-08-05-time-response.md",
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Control_System/2023-06-08-05-time-response.md",
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Control_System/2023-06-08-05-time-response.md"
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md"
               }
             }
           }
@@ -201,27 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38f14ce8f2b9f423",
+  "active": "4eef2315f62527a6",
   "lastOpenFiles": [
-    "assets/images/Control_System_img/5-12-time-domain-sol.jpg",
-    "assets/images/Control_System_img/5-11-high-order-system.jpg",
-    "assets/images/Control_System_img/5-10-transient-response.jpg",
-    "assets/images/Control_System_img/5-9-underdamped-2nd-order-system.jpg",
-    "assets/images/Control_System_img/5-8-general-2nd-order-system.jpg",
-    "assets/images/Control_System_img/5-7-pure-imaginary-roots.jpg",
-    "assets/images/Control_System_img/5-6-complex-conjugate-roots.jpg",
-    "assets/images/Control_System_img/5-5-repeated-real-roots.jpg",
-    "assets/images/Control_System_img/5-4-two-distinct-real-roots.jpg",
-    "assets/images/Control_System_img/5-3-second-order-system.jpg",
-    "assets/images/Control_System_img/5-2-first-order-system.jpg",
-    "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
-    "_posts/Control_System/2023-06-08-05-time-response.md",
     "_posts/Control_System/2023-06-06-03-time-domain.md",
-    "_posts/Control_System/2022-01-05-02-frequency-domain.md",
+    "_posts/Control_System/2023-06-09-09-root-locus.md",
+    "_posts/Control_System/2023-06-09-10-design-via-root-locus.md",
+    "assets/images/Control_System_img/10-10-cascade-compensator.png",
+    "assets/images/Control_System_img/Pasted image 20221027224954.png",
+    "assets/images/Control_System_img/10-6-pd-controller.png",
+    "assets/images/Control_System_img/10-5-lag-controller-2.png",
+    "assets/images/Control_System_img/10-5-lag-controller-1.png",
+    "assets/images/Control_System_img/10-4-pi-controller.png",
+    "_posts/Control_System/2023-06-09-07-stability.md",
+    "assets/images/Control_System_img/10-9-lag-lead-controller.png",
+    "assets/images/Control_System_img/10-8-pid-controller.png",
+    "assets/images/Control_System_img/10-7-lead-controller.png",
+    "assets/images/Control_System_img/10-3-improve-steady-state-error.jpg",
+    "_posts/Control_System/2023-06-09-08-steady-state-error.md",
+    "Pasted image 20221027221827.png.md",
+    "assets/images/Control_System_img/8-5-nonunity-feedback.jpg.md",
+    "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
     "_posts/Control_System/2022-01-05-01-Intro.md",
+    "_posts/Control_System/2022-01-05-02-frequency-domain.md",
+    "_posts/Control_System/2022-01-05-00-Start.md",
+    "_posts/Control_System/2023-06-08-05-Similarity-Transformation.md",
+    "_posts/Control_System/2023-06-08-06-time-response.md",
+    "assets/images/Control_System_img/5-2-first-order-system.jpg.md",
+    "CHANGELOG.md",
     "_posts/Blog/2021-09-28-HowToUseMD.md",
     "_posts/Blog/2021-10-07-GithubBlog.md",
-    "_posts/Blog/2021-10-05-MarkdownTutorial.md",
-    "_posts/Control_System/2022-01-05-00-Start.md"
+    "_posts/Blog/2021-10-05-MarkdownTutorial.md"
   ]
 }
