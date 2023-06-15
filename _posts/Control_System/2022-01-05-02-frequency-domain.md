@@ -38,22 +38,22 @@ Theorems
 ![The transfer function](/assets/images/Control_System_img/2-6-transfer-function.jpg)
 
 ## frequency domain
-* Electrical
-* Mechanical
-* Electrical + Mechanical
+* Electrical  
+* Mechanical  
+* Electrical + Mechanical  
 
 ## Electrical Network Transfer Functions
-* 1. Passive
+* 1. Passive  
 ![Passive](/assets/images/Control_System_img/2-7-passive.jpg)
 
-* 2. Active
+* 2. Active  
 ![Active](/assets/images/Control_System_img/2-9-active.jpg)
 
-* Mesh Analysis
+* Mesh Analysis  
 ![Eq](/assets/images/Control_System_img/2-8-equation.jpg)
 
 ## Mechanical System Transfer Functions
-* 1. Translational
+* 1. Translational  
 ![Translational](/assets/images/Control_System_img/2-10-translational.jpg)
 equation  
 ![Eq](/assets/images/Control_System_img/2-11-translational-eq.jpg)
