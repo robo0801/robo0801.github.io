@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Control_System/2023-06-08-06-time-response.md",
+                "file": "_posts/Control_System/2023-06-09-09-root-locus.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Control_System/2023-06-08-06-time-response.md",
+                "file": "_posts/Control_System/2023-06-09-09-root-locus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Control_System/2023-06-08-06-time-response.md",
+                "file": "_posts/Control_System/2023-06-09-09-root-locus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Control_System/2023-06-08-06-time-response.md"
+                "file": "_posts/Control_System/2023-06-09-09-root-locus.md"
               }
             }
           }
@@ -166,11 +166,11 @@
   },
   "active": "4eef2315f62527a6",
   "lastOpenFiles": [
-    "_posts/Control_System/2023-06-08-05-Similarity-Transformation.md",
+    "_posts/Control_System/2023-06-09-10-design-via-root-locus.md",
     "_posts/Control_System/2023-06-08-06-time-response.md",
+    "_posts/Control_System/2023-06-08-05-Similarity-Transformation.md",
     "_posts/Control_System/2022-01-05-02-frequency-domain.md",
     "_posts/Control_System/2022-01-05-00-Start.md",
-    "_posts/Control_System/2023-06-09-10-design-via-root-locus.md",
     "_posts/Control_System/2023-06-09-09-root-locus.md",
     "_posts/Control_System/2023-06-09-08-steady-state-error.md",
     "_posts/Control_System/2023-06-09-07-stability.md",
