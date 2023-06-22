@@ -48,13 +48,9 @@ System
 ### Underdamped 2nd-order system  
 ![Underdamped](/assets/images/Control_System_img/6-9-underdamped-2nd-order-system.jpg)  
 $(0<\zeta<1)$ step response ->transient response  
-$$
-C(s)={ { { \omega_n}^2} \over {s^2+2\zeta\omega s+{\omega_n}^2}} \cdot {1\over s}={1 \over s} - { {(s+\zeta \omega_n)+{ \zeta \over {\sqrt{1-\zeta^2} }} \omega_n \sqrt{1-\zeta^2} } \over {(s+\zeta \omega_n)^2+{\omega_n}^2 (1-\zeta^2)} }
-$$  
+$$C(s)={ { { \omega_n}^2}\over{s^2+2\zeta\omega s+{\omega_n}^2} } \cdot {1\over s}={1 \over s} - { {(s+\zeta\omega_n)+{\zeta\over{\sqrt{1-\zeta^2} } } \omega_n \sqrt{1-\zeta^2} } \over {(s+\zeta \omega_n)^2+{\omega_n}^2 (1-\zeta^2)} }$$  
 inverse Laplace transform  
-$$
-c(t)=1-e^{-\zeta \omega_n t}(\cos{\omega_n \sqrt{1-\zeta^2} t}+ {\zeta \over \sqrt{1-\zeta^2} } \sin{\omega_n \sqrt{1-\zeta^2} } )
-$$  
+$$c(t)=1-e^{-\zeta \omega_n t}(\cos{\omega_n \sqrt{1-\zeta^2} t}+ {\zeta \over \sqrt{1-\zeta^2} } \sin{\omega_n \sqrt{1-\zeta^2} } )$$  
 *  $T_p$ (peak time): time required to reach the 1st peak  
 	$T_p = {\pi \over \omega_n \sqrt{1-\zeta^2} }$  
 * % OS (percent overshoot): ${\text{overshoot}-\text{steady state}\over{\text{steady state} } }\times 100$  
