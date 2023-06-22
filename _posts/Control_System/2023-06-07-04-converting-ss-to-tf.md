@@ -5,6 +5,8 @@ toc_label: Table of Contents
 categories:
   - Control_System
 published: true
+use_math: true
+tags: [control_system]
 ---
 # 04 제어공학 Converting State Space to Transfer Function
 

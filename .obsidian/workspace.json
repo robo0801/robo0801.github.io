@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Control_System/2023-06-09-09-root-locus.md",
+                "file": "_posts/Control_System/2022-01-05-02-frequency-domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Control_System/2023-06-09-10-design-via-root-locus.md",
+                "file": "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Control_System/2023-06-09-09-root-locus.md",
+                "file": "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Control_System/2023-06-09-09-root-locus.md",
+                "file": "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Control_System/2023-06-09-09-root-locus.md"
+                "file": "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md"
               }
             }
           }
@@ -164,25 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eef2315f62527a6",
+  "active": "9ea05bfcc8ed2ce4",
   "lastOpenFiles": [
+    "_posts/Control_System/2023-06-08-05-Similarity-Transformation.md",
+    "_posts/Control_System/2023-06-08-06-time-response.md",
+    "_posts/Control_System/2023-06-09-07-stability.md",
+    "_posts/Control_System/2023-06-09-08-steady-state-error.md",
+    "_posts/Control_System/2023-06-09-09-root-locus.md",
+    "_posts/Control_System/2023-06-09-10-design-via-root-locus.md",
+    "_posts/OS/2021-10-06-OS01.md",
+    "_posts/Control_System/2022-01-05-02-frequency-domain.md",
+    "_posts/Control_System/2022-01-05-01-Intro.md",
+    "_posts/Control_System/2022-01-05-00-Start.md",
+    "_posts/Control_System/2023-06-06-03-time-domain.md",
+    "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
     "_includes/mathjax_support.html",
     "_includes/새 텍스트 문서.txt",
-    "_posts/Control_System/2023-06-09-10-design-via-root-locus.md",
-    "_posts/Control_System/2023-06-08-06-time-response.md",
-    "_posts/Control_System/2023-06-08-05-Similarity-Transformation.md",
-    "_posts/Control_System/2022-01-05-02-frequency-domain.md",
-    "_posts/Control_System/2022-01-05-00-Start.md",
-    "_posts/Control_System/2023-06-09-09-root-locus.md",
-    "_posts/Control_System/2023-06-09-08-steady-state-error.md",
-    "_posts/Control_System/2023-06-09-07-stability.md",
-    "_posts/Control_System/2023-06-07-04-converting-ss-to-tf.md",
-    "_posts/Control_System/2023-06-06-03-time-domain.md",
     "_posts/Blog/2021-10-07-GithubBlog.md",
     "_posts/Blog/2021-10-05-MarkdownTutorial.md",
     "_posts/Blog/2021-09-28-HowToUseMD.md",
     "_posts/OS/2021-10-06-OS02.md",
-    "_posts/OS/2021-10-06-OS01.md",
     "assets/images/Control_System_img/10-10-cascade-compensator.png",
     "assets/images/Control_System_img/Pasted image 20221027224954.png",
     "assets/images/Control_System_img/10-6-pd-controller.png",
@@ -195,7 +196,6 @@
     "assets/images/Control_System_img/10-3-improve-steady-state-error.jpg",
     "Pasted image 20221027221827.png.md",
     "assets/images/Control_System_img/8-5-nonunity-feedback.jpg.md",
-    "_posts/Control_System/2022-01-05-01-Intro.md",
     "assets/images/Control_System_img/5-2-first-order-system.jpg.md",
     "CHANGELOG.md"
   ]

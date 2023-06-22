@@ -5,11 +5,15 @@ toc_label: Table of Contents
 categories:
   - Control_System
 published: true
+use_math: true
 tags: [control_system]
 ---
 
 # 10 제어공학 design via root locus
+
+
 ![design via root locus](/assets/images/Control_System_img/10-1-design.jpg)  
+
 제어목적  
 	- stability, transient response improve -> closed loop pole  
 	- steady state error improve                 -> open loop pole  
