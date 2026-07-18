@@ -59,11 +59,11 @@ categories:
 # 3 목록
 순서 목록: 숫자뒤에 점 사용
 ```text
-1. 첫번째
+1. 첫번째 
 2. 두번째
 3. 세번째
 ```
-1. 첫번째          .
+1. 첫번째 
 2. 두번째
 3. 세번째
 
@@ -95,7 +95,7 @@ categories:
 
 
 # 4 코드
-```<pre><code>내용</code></pre>```
+`<pre><code>내용</code></pre>`
 <pre><code>내용</code></pre>
 
 
