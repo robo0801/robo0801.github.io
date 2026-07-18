@@ -156,7 +156,7 @@ Link: [Google](https://google.com, "google link")
 
 # 7 강조
 
-```
+```text
 *single asterisks*
 _single underscores_
 **double asterisks**
@@ -173,7 +173,7 @@ __double underscores__
 
 # 8 이미지
 
-```
+```text
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
