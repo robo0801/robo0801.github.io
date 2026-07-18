@@ -26,9 +26,36 @@ Modeling은 Laplace Transform을 사용하여 Frequency Domain과 Time Domain으
 ## Laplace Transfrom
 $$Time(t):\mathcal{f}(t)\leftrightarrow Freq(s):\mathcal{F}(s)$$      
 Laplace Transfrom  
+$$
+F(s)=\mathcal{L}\{f(t)\}
+=\int_{0^-}^{\infty} f(t)e^{-st}\,dt
+$$
 ![Laplace Transfrom](/assets/images/Control_System_img/2-2-laplace-transform.jpg)  
-Inverse Laplace Transfrom   
+Inverse Laplace Transfrom
+\begin{aligned}
+f(t)u(t)
+&=\mathcal{L}^{-1}\{F(s)\}
+=\frac{1}{2\pi j}
+\int_{\sigma-j\infty}^{\sigma+j\infty}
+F(s)e^{st}\,ds,\\[1ex]
+u(t)
+&=
+\begin{cases}
+0, & t<0,\\
+1, & t\ge0.
+\end{cases}
+\end{aligned}
+$$
 ![Inverse Laplace Transfrom](/assets/images/Control_System_img/2-3-inverse-laplace-transform.jpg)  
+Unit Step Function
+$$
+u(t)=
+\begin{cases}
+0, & t<0,\\
+1, & t\ge0.
+\end{cases}
+$$
+
 Laplace Transform Table  
 ![2-4-laplace-transform-table.jpg](/assets/images/Control_System_img/2-4-laplace-transform-table.jpg)  
 Theorems  
