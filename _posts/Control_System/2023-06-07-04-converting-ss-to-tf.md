@@ -26,7 +26,7 @@ tags: [control_system]
 ![Observer Canonical Form](/assets/images/Control_System_img/4-5-ocf.jpg)
 
 ## Controller와 Observer 관계
-![[4-6-controller-observer.png]]
+![4-6-controller-observer.png](/assets/images/Control_System_img/4-6-controller-observer.png)
 
 Posting 수정 내용   
 230607 포스팅 시작  

@@ -24,7 +24,7 @@ Modeling은 Laplace Transform을 사용하여 Frequency Domain과 Time Domain으
 
 
 ## Laplace Transfrom
-$$ Time(t): \mathcal{f}(t) \leftrightarrow Freq(s): \mathcal{F} (s) $$    
+$$Time(t):\mathcal{f}(t)\leftrightarrow Freq(s):\mathcal{F}(s)$$      
 Laplace Transfrom  
 ![Laplace Transfrom](/assets/images/Control_System_img/2-2-laplace-transform.jpg)  
 Inverse Laplace Transfrom   
@@ -65,7 +65,6 @@ equation
 ![Rotational](/assets/images/Control_System_img/2-12-rotational.jpg)  
 equation  
 ![Eq](/assets/images/Control_System_img/2-13-rotational-eq.jpg)  
-
 Gear  
 ![Gear](/assets/images/Control_System_img/2-14-gear.jpg)  
 

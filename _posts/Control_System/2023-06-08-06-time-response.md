@@ -9,7 +9,8 @@ use_math: true
 tags: [control_system]
 ---
 
-# 06 제어공학 Time Response
+# 06 제어공학 Time Response  
+  
 ## Time Response (Transient Response)
 [Time Response](/assets/images/Control_System_img/6-1-time-response.jpg)  
 

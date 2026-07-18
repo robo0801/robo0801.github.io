@@ -23,16 +23,12 @@ input
 ## for unity feedback system
 (feedback gain = 1)  
 ![for unity feedback system](/assets/images/Control_System_img/8-2-unity-feedback-system.jpg)  
-$$
-C(s)={G(s) \over {1+G(s)H(s)}} R(s) = G(s)E_a(s)
-$$  
-$$
-\rightarrow E_a(s)={R(s) \over {1+G(s)H(s)}}=R(s)-H(s)C(s)
-$$  
+$$C(s)={G(s) \over {1+G(s)H(s) } } R(s) = G(s)E_a(s)$$  
+$$\rightarrow E_a(s)={R(s) \over {1+G(s)H(s) } }=R(s)-H(s)C(s)$$  
 Unity system  
-$$E(s)={R(s) \over{1+G(s)}}=R(s)-C(s)$$  
+$$E(s)={R(s)\over{1+G(s) } }=R(s)-C(s)$$  
 Steady State Error  
-$$e_ss=\lim_{t\rightarrow \infty} e(t)=\lim_{s \rightarrow 0}{sR \over {1+G}}$$  
+$$e_ss=\lim_{t\rightarrow \infty} e(t)=\lim_{s \rightarrow 0} {sR \over {1+G} }$$  
 
 ### constants & system type  
 ![constants](/assets/images/Control_System_img/8-3-constants.jpg)  

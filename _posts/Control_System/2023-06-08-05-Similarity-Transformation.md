@@ -16,7 +16,7 @@ tags: [control_system]
 (Transfer function은 Unique하다)  
 
 ## 1. PVCF Xp vs Controller cannical form Xc
-$$ X_p =  \left[ \begin{matrix} 0 & 0 & 1 \\ 0 & 1 & 0 \\  1 & 0 & 0 \\  \end{matrix} \right] X_c $$  
+$$X_p =  \left[ \begin{matrix} 0 & 0 & 1 \\ 0 & 1 & 0 \\  1 & 0 & 0 \\  \end{matrix} \right] X_c$$  
 
 ## 2. Similarity transform  
 ![similarity transform](/assets/images/Control_System_img/5-1-similarity-transform.jpg)  
