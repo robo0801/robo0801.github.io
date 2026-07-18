@@ -29,9 +29,10 @@ $$Time(t):\mathcal{f}(t)\leftrightarrow Freq(s):\mathcal{F}(s)$$
 $$
 F(s)=\mathcal{L}\{f(t)\}
 =\int_{0^-}^{\infty} f(t)e^{-st}\,dt
-$$
+$$  
 ![Laplace Transfrom](/assets/images/Control_System_img/2-2-laplace-transform.jpg)  
 * Inverse Laplace Transfrom
+$$
 \begin{aligned}
 f(t)u(t)
 &=\mathcal{L}^{-1}\{F(s)\}
@@ -45,7 +46,7 @@ u(t)
 1, & t\ge0.
 \end{cases}
 \end{aligned}
-$$
+$$  
 ![Inverse Laplace Transfrom](/assets/images/Control_System_img/2-3-inverse-laplace-transform.jpg)  
 * Unit Step Function  
 $$
@@ -54,11 +55,11 @@ u(t)=
 0, & t<0,\\
 1, & t\ge0.
 \end{cases}
-$$
+$$  
 
-Laplace Transform Table  
+* Laplace Transform Table  
 ![2-4-laplace-transform-table.jpg](/assets/images/Control_System_img/2-4-laplace-transform-table.jpg)  
-Theorems  
+* Theorems  
 ![2-5-laplace-transform-theorems.jpg](/assets/images/Control_System_img/2-5-laplace-transform-theorems.jpg)  
   
 제어공학에서 배우는 모든 target의 수학적 모델은 미분 방정식으로 표현된다. 미분 방정식은 Laplace Transform을 사용하여 간단하게 풀 수 있다.  
@@ -99,8 +100,6 @@ Gear
 ## Electromechanical System
 예시: DC Motor  
 ![2-15-dc-motor.jpg](/assets/images/Control_System_img/2-15-dc-motor.jpg)
-
-
 
 
 Posting 수정 내용   
