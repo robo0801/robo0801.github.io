@@ -25,19 +25,19 @@ Modeling은 Laplace Transform을 사용하여 Frequency Domain과 Time Domain으
 
 ## Laplace Transfrom
 $$Time(t):\mathcal{f}(t)\leftrightarrow Freq(s):\mathcal{F}(s)$$      
-Laplace Transfrom  
+* Laplace Transfrom  
 $$
 F(s)=\mathcal{L}\{f(t)\}
 =\int_{0^-}^{\infty} f(t)e^{-st}\,dt
 $$
 ![Laplace Transfrom](/assets/images/Control_System_img/2-2-laplace-transform.jpg)  
-Inverse Laplace Transfrom
+* Inverse Laplace Transfrom
 \begin{aligned}
 f(t)u(t)
 &=\mathcal{L}^{-1}\{F(s)\}
 =\frac{1}{2\pi j}
 \int_{\sigma-j\infty}^{\sigma+j\infty}
-F(s)e^{st}\,ds,\\[1ex]
+F(s)e^{st}\,ds,\\
 u(t)
 &=
 \begin{cases}
@@ -47,7 +47,7 @@ u(t)
 \end{aligned}
 $$
 ![Inverse Laplace Transfrom](/assets/images/Control_System_img/2-3-inverse-laplace-transform.jpg)  
-Unit Step Function
+* Unit Step Function  
 $$
 u(t)=
 \begin{cases}
@@ -106,4 +106,5 @@ Gear
 Posting 수정 내용   
 220105 포스팅 시작  
 230606 포스팅 추가 (마지막까지)
+260718 수식 수정
 {: .notice--success}
