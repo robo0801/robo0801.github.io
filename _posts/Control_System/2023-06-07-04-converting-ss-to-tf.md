@@ -58,17 +58,17 @@ Controllability Matrix, Observability Matrix 계산이 쉽다.
 $$
 A=
 \begin{bmatrix}
-0&1&0&\cdots&0\\
-0&0&1&\cdots&0\\
-\vdots&\vdots&\vdots&\ddots&\vdots\\
--a_0&-a_1&-a_2&\cdots&-a_{n-1}
+0 & 1 & 0 & \cdots & 0 \\
+0 & 0 & 1 & \cdots & 0 \\
+\vdots & \vdots & \vdots & \ddots & \vdots \\
+-a_0 & -a_1 & -a_2 & \cdots & -a_{n-1}
 \end{bmatrix}
 
 B=
 \begin{bmatrix}
-0\\
-0\\
-\vdots\\
+0 \\
+0 \\
+\vdots \\
 1
 \end{bmatrix}
 $$  
@@ -85,33 +85,30 @@ $$
 * 계산 과정  
   * step 1. $B$  
     $$
-    
     B=
     \begin{bmatrix}
-    0\\
-    0\\
+    0 \\
+    0 \\
     1
     \end{bmatrix}
     
     $$  
   * step 2. $AB$  
     $$
-    
     AB
     =
     A
     \begin{bmatrix}
-    0\\
-    0\\
+    0 \\
+    0 \\
     1
     \end{bmatrix}
     =
     \begin{bmatrix}
-    0\\
-    1\\
+    0 \\
+    1 \\
     -a_2
     \end{bmatrix}
-    
     $$  
   * step 3. $A^{2}B$  
     $$
@@ -121,8 +118,7 @@ $$
     \;\rightarrow\;
     A^2B
     \;\rightarrow\;
-    A^3B
-    \;\rightarrow\;
+    A^3B 
     $$  
   같은 행렬 $$A$$를 반복해서 곱하면 되므로 계산이 규칙적이고 간단하다.
 
@@ -134,7 +130,7 @@ $$
 $$
 C=
 \begin{bmatrix}
-1&0&0
+1 & 0 & 0
 \end{bmatrix}
 $$  
 * Observability matrix
@@ -142,10 +138,10 @@ $$
 \mathcal{O}
 =
 \begin{bmatrix}
-C\\
-CA\\
-CA^2\\
-\vdots\\
+C \\
+CA \\
+CA^2 \\
+\vdots \\
 CA^{n-1}
 \end{bmatrix}
 $$  
@@ -154,14 +150,14 @@ $$
     $$
     C=
     \begin{bmatrix}
-    1&0&0
+    1 & 0 & 0
     \end{bmatrix}
     $$  
   * Step 1. $CA$  
     $$
     CA=
     \begin{bmatrix}
-    -a_2&1&0
+    -a_2 & 1 & 0
     \end{bmatrix}
     $$  
   * step 3. $CA^{2}$  
@@ -172,8 +168,7 @@ $$
     \;\rightarrow\;
     CA^2
     \;\rightarrow\;
-    CA^3
-    \;\rightarrow\; 
+    CA^3 
     $$  
   같은 행렬 $$A$$를 반복해서 곱하면 되므로 계산이 규칙적이고 간단하다.  
   출력으로 상태를 차례로 알아낼 수 있다.  
