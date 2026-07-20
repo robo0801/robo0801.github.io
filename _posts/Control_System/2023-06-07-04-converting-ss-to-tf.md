@@ -56,6 +56,13 @@ Controllability Matrix, Observability Matrix 계산이 쉽다.
 ### Controllability Matrix 계산이 쉬운 이유  
 * state space 행렬  
 $$
+\begin{matrix}
+1 & 2 \\
+3 & 4
+\end{matrix}
+$$  
+
+$$
 A=
 \begin{pmatrix}
 0 & 1 & 0 & \cdots & 0 \\
@@ -91,7 +98,6 @@ $$
     0 \\
     1
     \end{bmatrix}
-    
     $$  
   * step 2. $$AB$$  
     $$
