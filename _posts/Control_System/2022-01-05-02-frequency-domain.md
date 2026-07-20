@@ -68,11 +68,11 @@ $$
 ## The transfer function
 전달 함수(Transfer function): Input이 Output에 어떤 영향을 주는지 나타내는 시스템의 수학적 모델  
 ![The transfer function](/assets/images/Control_System_img/2-6-transfer-function.jpg)
-* 전달함수의 한계 
-  선형(Linear) 시스템만 적용 가능: 입력과 출력이 비례 
-  시간 불변(Time-Invariant, LTI) 시스템만 적용 가능: 시스템 특성이 시간에 따라 변하지 않는다. 
+* 전달함수의 한계  
+  선형(Linear) 시스템만 적용 가능: 입력과 출력이 비례  
+  시간 불변(Time-Invariant, LTI) 시스템만 적용 가능: 시스템 특성이 시간에 따라 변하지 않는다.  
   시스템 내부 상태 알 수 없다.  
-  초기 조건을 포함하지 않는다.: 초기 조건이 모두 0이라 가정  
+  초기 조건을 포함하지 않는다.: 초기 조건이 모두 0이라 가정   
 ## frequency domain
 * Electrical  
 * Mechanical  
