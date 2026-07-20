@@ -5,7 +5,7 @@ toc_label: Table of Contents
 categories:
   - Control_System
 published: true
-use_math: true
+math: true
 tags: [control_system]
 ---
 # 04 제어공학 Converting State Space to Transfer Function
@@ -57,20 +57,20 @@ Controllability Matrix, Observability Matrix 계산이 쉽다.
 * state space 행렬  
 $$
 A=
-\begin{matrix}
+\begin{pmatrix}
 0 & 1 & 0 & \cdots & 0 \\
 0 & 0 & 1 & \cdots & 0 \\
 \vdots & \vdots & \vdots & \ddots & \vdots \\
 -a_0 & -a_1 & -a_2 & \cdots & -a_{n-1}
-\end{matrix}
+\end{pmatrix}
 
 B=
-\begin{matrix}
+\begin{pmatrix}
 0 \\
 0 \\
 \vdots \\
 1
-\end{matrix}
+\end{pmatrix}
 $$  
 
 * Controllability Matrix  
