@@ -70,7 +70,8 @@ A=
 \vdots & \vdots & \vdots & \ddots & \vdots \\
 -a_0 & -a_1 & -a_2 & \cdots & -a_{n-1}
 \end{pmatrix}
-
+$$  
+$$
 B=
 \begin{pmatrix}
 0 \\
