@@ -16,7 +16,7 @@ tags: [control_system]
 
 specification  
 * transient response -> step function (얼마나 빨리 반응 하는지)  
-	$R(s)={1 \over s}, \, u(t)$  
+	$$R(s)={1 \over s}, \, u(t)$$  
 * stability  
 * steady state error  
 

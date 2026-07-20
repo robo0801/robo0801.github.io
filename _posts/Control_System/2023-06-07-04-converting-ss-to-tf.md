@@ -62,7 +62,7 @@ A=
 0&0&1&\cdots&0\\
 \vdots&\vdots&\vdots&\ddots&\vdots\\
 -a_0&-a_1&-a_2&\cdots&-a_{n-1}
-\end{bmatrix}\\
+\end{bmatrix}
 
 B=
 \begin{bmatrix}
