@@ -74,22 +74,6 @@ B=
 \end{pmatrix}
 $$  
 
-$$
-\begin{aligned}
-A &=
-\begin{pmatrix}
-0 & 1\\
-2 & 3
-\end{pmatrix}
-\\[1em]
-B &=
-\begin{pmatrix}
-1\\
-2
-\end{pmatrix}
-\end{aligned}
-$$
-
 * Controllability Matrix  
 $$
 \mathcal{C}
