@@ -57,20 +57,20 @@ Controllability Matrix, Observability Matrix 계산이 쉽다.
 * state space 행렬  
 $$
 A=
-\begin{bmatrix}
+\begin{pmatrix}
 0 & 1 & 0 & \cdots & 0 \\
 0 & 0 & 1 & \cdots & 0 \\
 \vdots & \vdots & \vdots & \ddots & \vdots \\
 -a_0 & -a_1 & -a_2 & \cdots & -a_{n-1}
-\end{bmatrix}
+\end{pmatrix}
 
 B=
-\begin{bmatrix}
+\begin{pmatrix}
 0 \\
 0 \\
 \vdots \\
 1
-\end{bmatrix}
+\end{pmatrix}
 $$  
 
 * Controllability Matrix  
@@ -83,7 +83,7 @@ B & AB & A^2B & \cdots & A^{n-1}B
 $$  
 
 * 계산 과정  
-  * step 1. $B$  
+  * step 1. $$B$$  
     $$
     B=
     \begin{bmatrix}
@@ -93,7 +93,7 @@ $$
     \end{bmatrix}
     
     $$  
-  * step 2. $AB$  
+  * step 2. $$AB$$  
     $$
     AB
     =
@@ -146,21 +146,21 @@ CA^{n-1}
 \end{bmatrix}
 $$  
 * 계산 과정
-  * Step 1. $C$  
+  * Step 1. $$C$$  
     $$
     C=
     \begin{bmatrix}
     1 & 0 & 0
     \end{bmatrix}
     $$  
-  * Step 1. $CA$  
+  * Step 1. $$CA$$  
     $$
     CA=
     \begin{bmatrix}
     -a_2 & 1 & 0
     \end{bmatrix}
     $$  
-  * step 3. $CA^{2}$  
+  * step 3. $$CA^{2}$$  
     $$
     C
     \;\rightarrow\;
